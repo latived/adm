@@ -35,6 +35,9 @@ image::swot.jpeg[Matriz SWOT]
 
 == Mapa estratégico
 
+.Modelo Canvas
+image::canvas.svg[Modelo Canvas]
+
 _Para a construção do mapa estratégico sugerimos a metodologia do Balanced Scorecard, que é baseada em quatro pilares principais:_
 
 * _Perspectiva financeira_
