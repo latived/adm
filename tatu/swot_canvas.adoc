@@ -1,5 +1,5 @@
-= TATU: plano estratégico
-Autores <{wvb, dcsales, glnjunior}@ic.ufal.br>
+= Plano estratégico para a TATU
+Warley V. Barbosa <wvb@ic.ufal.br>; Dayvson Sales <dcsales@ic.ufal.br>; Giva Junior <glnjunior@ic.ufal.br>
 v1.0, 2019-03-16
 
 == _Stakeholders_
